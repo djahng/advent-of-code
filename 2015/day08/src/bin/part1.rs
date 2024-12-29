@@ -99,8 +99,6 @@ mod tests {
         let lines = parse(&input);
         let result = solve(&lines);
 
-        println!("{lines:?}");
-
         assert_eq!(result, 43 - 29);
     }
 }
