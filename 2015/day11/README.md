@@ -1,0 +1,1 @@
+This was solved without any code. The first valid password would be of the form ___aabcc. So take the puzzle input and make it match that form. The 4th character in my input was 'x', so part 1 ended in xxyzz. The next password (part 2) wraps and ends in aabcc.
